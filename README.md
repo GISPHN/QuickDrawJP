@@ -1,6 +1,7 @@
 # 重要な操作/Important operation
 
-重要な操作：インストール後、レイヤパネルに表示される"グループ描画"をクリックし、ツールバーの"開始"をクリックしてください。この操作によりオブジェクトの追加が可能になります。
+インストール後、レイヤパネルに表示される"グループ描画"をクリックし、ツールバーの"開始"をクリックしてください。この操作によりオブジェクトの追加が可能になります。
+
 Important operation: After installation, click “グループ描画” displayed in the Layers panel, then click “開始” on the toolbar.This operation enables you to add objects.
 
 # QuickDrawJP
