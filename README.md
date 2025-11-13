@@ -4,7 +4,7 @@ QuickDrawJP is a QGIS plugin that lets you draw points, lines, polygons and circ
 It was originally developed to support community health assessment and disaster response activities by Public Health Nurses (PHNs) in Japan, but is useful for any quick sketching and annotation workflow in QGIS.
 
 ![QuickDrawJP screenshot](screenshot.png)
-
+©OpenStreetMap Contributors
 ---
 
 ## Features
